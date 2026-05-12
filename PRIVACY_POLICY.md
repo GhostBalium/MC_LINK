@@ -1,42 +1,51 @@
-# Política de Privacidad de MC LINK
+# Privacy Policy / Política de Privacidad - MC LINK
 
-**Última actualización:** [12/05/2026]
+**Last updated / Última actualización:** [12/05/2026]
 
-Esta política de privacidad describe cómo **MC LINK** ("nosotros", "nuestro" o "la Aplicación") recopila, utiliza y comparte información cuando utilizas nuestra aplicación móvil.
+---
 
-## 1. Información que Recopilamos
+## ENGLISH VERSION
 
-### a. Información Proporcionada por el Usuario
-La Aplicación no requiere que crees una cuenta ni que proporciones información de identificación personal (como nombre o correo electrónico). Sin embargo, la Aplicación almacena localmente en tu dispositivo:
-*   Direcciones IP y puertos de servidores que guardas en tu sección de "Favoritos".
-*   Preferencias de tema visual (claro/oscuro).
+### 1. Information Collection
+**MC LINK** does not require a user account. We do not collect personal identification information such as name or email. The application only stores locally on your device:
+* Saved Server IPs and Ports (Favorites).
+* Visual theme preferences.
 
-Esta información permanece exclusivamente en tu dispositivo y no se envía a nuestros servidores.
+### 2. Third-Party Services
+To maintain and monetize the app, we use:
+* **Google Play Services:** For app distribution and updates.
+* **Google AdMob:** To display banners and interstitial ads. AdMob may collect data such as your Android Advertising ID, usage data, and approximate location to show relevant ads.
 
-### b. Datos Recopilados Automáticamente (Servicios de Terceros)
-Para el mantenimiento y la monetización de la aplicación, utilizamos servicios de terceros que pueden recopilar información utilizada para identificarte:
+### 3. Proxy and Network Usage
+The App acts as a LAN proxy to facilitate connections to remote Minecraft servers from consoles.
+* We use network permissions to send/receive discovery packets (Multicast).
+* We do NOT intercept, read, or store your game traffic content.
 
-*   **Google Play Services:** Utilizado para la distribución y actualizaciones de la app.
-*   **Google AdMob:** Para mostrar anuncios (Banners e Intersticiales). AdMob puede recopilar datos como tu ID de publicidad de Android, datos de uso, ubicación aproximada e información del dispositivo para mostrar anuncios relevantes.
+### 4. Privacy Policy Link
+This policy is accessible within the app's side menu and on the Google Play Store page.
 
-## 2. Uso del Proxy y Conexiones de Red
-MC LINK actúa como un proxy LAN para facilitar la conexión a servidores remotos de Minecraft desde consolas. 
-*   La Aplicación utiliza permisos de red para enviar y recibir paquetes de descubrimiento de red (Multicast).
-*   No interceptamos, leemos ni almacenamos el contenido de tu tráfico de juego.
+---
 
-## 3. Cookies y Tecnologías Similares
-Los proveedores de anuncios (AdMob) pueden utilizar "cookies" o identificadores anónimos para mejorar la relevancia de la publicidad. No tenemos control directo sobre estas tecnologías de terceros.
+## VERSIÓN EN ESPAÑOL
 
-## 4. Privacidad de los Niños
-MC LINK está diseñada para ser utilizada por jugadores de todas las edades. No recopilamos conscientemente información personal de niños. Si eres padre o tutor y crees que hemos recopilado datos sin tu consentimiento, contáctanos para eliminarlos.
+### 1. Recopilación de Información
+**MC LINK** no requiere una cuenta de usuario. No recopilamos información de identificación personal como nombre o correo electrónico. La aplicación solo almacena localmente en tu dispositivo:
+* IPs y Puertos de servidores guardados (Favoritos).
+* Preferencias del tema visual.
 
-## 5. Seguridad
-Valoramos tu confianza al usar la Aplicación. Aunque no almacenamos datos personales en la nube, te recomendamos proteger tu dispositivo. Los datos de configuración (IPs de servidores) se borran si desinstalas la aplicación o borras sus datos.
+### 2. Servicios de Terceros
+Para mantener y monetizar la aplicación, utilizamos:
+* **Google Play Services:** Para la distribución y actualizaciones de la app.
+* **Google AdMob:** Para mostrar banners y anuncios intersticiales. AdMob puede recopilar datos como tu ID de publicidad de Android, datos de uso y ubicación aproximada para mostrar anuncios relevantes.
 
-## 6. Cambios en esta Política
-Podemos actualizar nuestra Política de Privacidad de vez en cuando. Se te notificará de cualquier cambio publicando la nueva Política de Privacidad en esta página y actualizando la fecha de "Última actualización".
+### 3. Uso del Proxy y Red
+La aplicación actúa como un proxy LAN para facilitar la conexión a servidores remotos de Minecraft desde consolas.
+* Utilizamos permisos de red para enviar/recibir paquetes de descubrimiento (Multicast).
+* NO interceptamos, leemos ni almacenamos el contenido de tu tráfico de juego.
 
-## 7. Contacto
-Si tienes preguntas sobre esta Política de Privacidad, puedes contactarnos a través de:
-*   **Correo electrónico:** [ghostbal666@gmail.com]
-*   **GitHub:** [https://github.com/GhostBalium]
+---
+
+## Contact / Contacto
+If you have questions / Si tienes preguntas:
+* **Email:** [ghostbal666@gmail.com]
+* **GitHub:** https://github.com/GhostBalium
