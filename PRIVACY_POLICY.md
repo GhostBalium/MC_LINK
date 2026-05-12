@@ -1,4 +1,4 @@
-# Privacy Policy / Política de Privacidad - MC LINK
+# Privacy Policy - MC LINK
 
 **Last updated / Última actualización:** [12/05/2026]
 
