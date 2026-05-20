@@ -1,6 +1,6 @@
 # Privacy Policy - MC LINK
 
-**Last updated / Última actualización:** [12/05/2026]
+**Last updated / Última actualización:** [19/05/2026]
 
 ---
 
